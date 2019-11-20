@@ -1,5 +1,5 @@
 {
-  "name": "alfred-lmgtfy",
+  "name": "@duncup/alfred-lmgtfy",
   "version": "0.1.0",
   "description": "Let me google that for you.",
   "license": "MIT",

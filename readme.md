@@ -6,7 +6,7 @@
 ## Install
 
 ```
-$ npm install --global alfred-lmgtfy
+$ npm install --global @duncup/alfred-lmgtfy
 ```
 
 *Requires [Node.js](https://nodejs.org) 8+ and the Alfred [Powerpack](https://www.alfredapp.com/powerpack/).*
