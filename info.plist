@@ -31,7 +31,7 @@
 		</array>
 	</dict>
 	<key>createdby</key>
-	<string></string>
+	<string>duncup</string>
 	<key>description</key>
 	<string></string>
 	<key>disabled</key>
@@ -153,6 +153,6 @@
 		</dict>
 	</dict>
 	<key>webaddress</key>
-	<string></string>
+	<string>https://github.com/duncup/alfred-lmgtfy</string>
 </dict>
 </plist>
