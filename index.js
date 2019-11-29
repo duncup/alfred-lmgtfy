@@ -11,9 +11,9 @@ alfy.output([
 		arg: `https://zh.lmgtfy.me/?q=${encodeURI(alfy.input)}&pp=1`,
 		quicklookurl: `https://zh.lmgtfy.me/?q=${encodeURI(alfy.input)}&pp=1`,
 		icon: {
-			type: "png",
-			path: "google.png",
-		},
+			type: 'png',
+			path: 'google.png'
+		}
 	},
 	{
 		title: 'lmgtfy',
@@ -21,9 +21,9 @@ alfy.output([
 		arg: `https://zh.lmgtfy.me/?q=${encodeURI(alfy.input)}&pp=1&s=l`,
 		quicklookurl: `https://zh.lmgtfy.me/?q=${encodeURI(alfy.input)}&pp=1&s=l`,
 		icon: {
-			type: "png",
-			path: "lmgtfy.png",
-		},
+			type: 'png',
+			path: 'lmgtfy.png'
+		}
 	},
 	{
 		title: 'Yahoo',
@@ -31,9 +31,9 @@ alfy.output([
 		arg: `https://zh.lmgtfy.me/?q=${encodeURI(alfy.input)}&pp=1&s=y`,
 		quicklookurl: `https://zh.lmgtfy.me/?q=${encodeURI(alfy.input)}&pp=1&s=y`,
 		icon: {
-			type: "png",
-			path: "yahoo.png",
-		},
+			type: 'png',
+			path: 'yahoo.png'
+		}
 	},
 	{
 		title: 'Bing',
@@ -41,9 +41,9 @@ alfy.output([
 		arg: `https://zh.lmgtfy.me/?q=${encodeURI(alfy.input)}&pp=1&s=b`,
 		quicklookurl: `https://zh.lmgtfy.me/?q=${encodeURI(alfy.input)}&pp=1&s=b`,
 		icon: {
-			type: "png",
-			path: "bing.png",
-		},
+			type: 'png',
+			path: 'bing.png'
+		}
 	},
 	{
 		title: 'Startpage',
@@ -51,9 +51,9 @@ alfy.output([
 		arg: `https://zh.lmgtfy.me/?q=${encodeURI(alfy.input)}&pp=1&s=t`,
 		quicklookurl: `https://zh.lmgtfy.me/?q=${encodeURI(alfy.input)}&pp=1&s=t`,
 		icon: {
-			type: "png",
-			path: "startpage.png",
-		},
+			type: 'png',
+			path: 'startpage.png'
+		}
 	},
 	{
 		title: 'Ask',
@@ -61,9 +61,9 @@ alfy.output([
 		arg: `https://zh.lmgtfy.me/?q=${encodeURI(alfy.input)}&pp=1&&s=k`,
 		quicklookurl: `https://zh.lmgtfy.me/?q=${encodeURI(alfy.input)}&pp=1&&s=k`,
 		icon: {
-			type: "png",
-			path: "ask.png",
-		},
+			type: 'png',
+			path: 'ask.png'
+		}
 	},
 	{
 		title: 'Aol',
@@ -71,9 +71,9 @@ alfy.output([
 		arg: `https://zh.lmgtfy.me/?q=${encodeURI(alfy.input)}&pp=1&s=a`,
 		quicklookurl: `https://zh.lmgtfy.me/?q=${encodeURI(alfy.input)}&pp=1&s=a`,
 		icon: {
-			type: "png",
-			path: "aol.png",
-		},
+			type: 'png',
+			path: 'aol.png'
+		}
 	},
 	{
 		title: 'Duckduckgo',
@@ -81,8 +81,8 @@ alfy.output([
 		arg: `https://zh.lmgtfy.me/?q=${encodeURI(alfy.input)}&pp=1&s=d`,
 		quicklookurl: `https://zh.lmgtfy.me/?q=${encodeURI(alfy.input)}&pp=1&s=d`,
 		icon: {
-			type: "png",
-			path: "duckduckgo.png",
-		},
+			type: 'png',
+			path: 'duckduckgo.png'
+		}
 	}
 ]);
